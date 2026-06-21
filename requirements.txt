@@ -1,0 +1,3 @@
+stable-worldmodel[train,env]
+huggingface_hub[cli]
+zstandard
